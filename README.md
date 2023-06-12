@@ -33,15 +33,16 @@ Com essa solução, o cliente poderá otimizar suas atividades comerciais e fina
 
 ## Tela de Início
 Nesta tela, são exibidos todos os títulos, permitindo gerenciá-los e acessar outros recursos através da navegação.
-![home](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/f5bcc97d-f9ff-4bfb-bd96-44c8c9e51320)
+![home](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/9f65b743-4557-4595-a478-2725160a96b7)
 
 ## Tela de Relatórios
 Esta é a tela de Relatórios Financeiros, onde é possível gerenciar todas as parcelas, filtrando por estilo e data de vencimento.
-![relatorios](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/00168ef8-e41d-475c-99a3-2908274993e9)
+![relatorios](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/9fd60fda-e6a1-49f0-a039-610f2c9a191b)
 
 ## Tela de Parcelas
 Nesta tela, é possível gerenciar as parcelas vinculadas a um título específico, enviar uma cobrança ou abater uma parcela.
-![parcelas](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/2f19809b-9ccf-49b6-9353-dba4a3940216)
+![parcelas](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/d2b696ea-2591-4599-8680-f15e27ab9e84)
+
 </div>
 
 ## Contribuições Pessoais
