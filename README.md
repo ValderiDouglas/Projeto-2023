@@ -32,38 +32,31 @@ Com essa solução, o cliente poderá otimizar suas atividades comerciais e fina
 <div align="center">
 
 ## Tela de Início
-Nesta tela, são exibidos todos os títulos, permitindo gerenciá-los e acessar outros recursos através da navegação.
+Nesta tela, são exibidos todos os títulos, permitindo gerenciá-los e acessar outros recursos através da barra de navegação.
 ![home](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/9f65b743-4557-4595-a478-2725160a96b7)
-
-## Tela de Relatórios
-Esta é a tela de Relatórios Financeiros, onde é possível gerenciar todas as parcelas, filtrando por estilo e data de vencimento.
-![relatorios](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/9fd60fda-e6a1-49f0-a039-610f2c9a191b)
-
-## Tela de Parcelas
-Nesta tela, é possível gerenciar as parcelas vinculadas a um título específico, enviar uma cobrança ou abater uma parcela.
-![parcelas](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/d2b696ea-2591-4599-8680-f15e27ab9e84)
 
 </div>
 
 ## Contribuições Pessoais
 
-- Como membro da equipe, atuei como master, fornecendo suporte ao time e traçando o caminho mais produtivo e tranquilo para o projeto.
-- Contribuí diretamente na construção da estrutura do banco de dados, garantindo um bom design e eficiência.
-- Participei ativamente no desenvolvimento do back-end, implementando funcionalidades e garantindo a integração correta com o front-end.
+Atuei como master, fornecendo suporte ao time e traçando o caminho mais produtivo e tranquilo para o projeto. Contribuí diretamente na construção da estrutura do banco de dados. Participei ativamente no desenvolvimento do back-end, implementando funções CRUDs(Create, Read, Update, Delete) e garanti a integração com o front-end.
 
 ## Soft Skills
 
-- Proatividade
-- Autonomia
-- Colaboração
-- Entrega de Resultados
+1. Trabalho em equipe: Trabalhei em equipe no projeto acadêmico. Isso demonstra a habilidade de colaborar e contribuir efetivamente em um ambiente de equipe.
+2. Flexibilidade: adquiri conhecimentos em back-end, front-end e estrutura de dados, demonstrando a capacidade de se adaptar e trabalhar em diferentes áreas e tecnologias.
+3. Entrega de resultados: O autor menciona ter atuado como master no projeto de 2023, fornecendo suporte ao time e garantindo a entrega de resultados, cumprir prazos e entregar resultados satisfatórios.
 
 ## Hard Skills
 
-- Java
-- TypeScript
-- React
-- MySQL
+| Habilidades  | Nível      | Descrição |
+|--------------|------------|-----------|
+| Java         | Sei Fazer Sozinho   | Aprendi |
+| TypeScript   | Sei Fazer Sozinho   | |
+| SQL          | Sei Fazer Sozinho | |
+| React        | Ouvi Falar   | |
+| Insomnia     | Sei Fazer Sozinho | |
+| Figma        | Entendi | |
 
 # Contato
 
