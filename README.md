@@ -1,4 +1,5 @@
 # Sobre Mim
+<img width="130px" src= ""/>
 
 Olá! Meu nome é Valderi e sou técnico em Desenvolvimento de Sistemas. Meu interesse pela programação começou através dos jogos, o que me levou a explorar diversas linguagens e tecnologias por conta própria. Sou uma pessoa autodidata e apaixonada por aprender.
 
