@@ -45,16 +45,17 @@ Atuei como master, fornecendo suporte ao time e traçando o caminho mais produti
 
 1. Trabalho em equipe: Trabalhei em equipe no projeto acadêmico. Isso demonstra a habilidade de colaborar e contribuir efetivamente em um ambiente de equipe.
 2. Flexibilidade: adquiri conhecimentos em back-end, front-end e estrutura de dados, demonstrando a capacidade de se adaptar e trabalhar em diferentes áreas e tecnologias.
-3. Entrega de resultados: O autor menciona ter atuado como master no projeto de 2023, fornecendo suporte ao time e garantindo a entrega de resultados, cumprir prazos e entregar resultados satisfatórios.
+3. Entrega de resultados: Atuei como master no projeto Pay.me, fornecendo suporte ao time e garantindo a entrega de resultados e cumprir prazos.
 
 ## Hard Skills
 
 | Habilidades  | Nível      | Descrição |
 |--------------|------------|-----------|
-| Java         | Sei Fazer Sozinho   | Aprendi |
-| TypeScript   | Sei Fazer Sozinho   | |
-| SQL          | Sei Fazer Sozinho | |
-| React        | Ouvi Falar   | |
+| Java         | Sei Fazer Sozinho   | Aprendi a operar informação armazenada com funções CRUD, <br> estruturar as tabelas em models e conectar as rotas no controller |
+| TypeScript   | Entendi   | Participei na implementação com o back-end, gerenciando as rotas e <br>
+manipulando json para exibição de dados |
+| SQL          | Sei Fazer Sozinho |  |
+| React        | Entendi   | |
 | Insomnia     | Sei Fazer Sozinho | |
 | Figma        | Entendi | |
 
