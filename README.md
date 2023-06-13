@@ -34,6 +34,7 @@ Repositório: [Sistema de Gestão de Serviços](https://github.com/404-BIS/Siste
 
 ## Tela de Início
 Nesta tela, são exibidos todos os títulos, permitindo gerenciá-los e acessar outros recursos através da barra de navegação.
+![163494007-21cde00e-1f0f-4c82-a52f-51ee6eef6012](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/24ca0b07-c72f-4995-a7aa-21ff5748e31a)
 
 
 </div>
@@ -73,7 +74,7 @@ Repositório: [Send.me](https://github.com/The-Seven-DSM/Send.me-Documentacao-20
 
 ## Tela de Início
 Nesta tela, são exibidos todos os títulos, permitindo gerenciá-los e acessar outros recursos através da barra de navegação.
-![home](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/9f65b743-4557-4595-a478-2725160a96b7)
+![204181812-06970d27-4e57-4527-9385-19950bafff8c](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/e06a2a06-d7a7-4407-bcc8-70872da010ed)
 
 </div>
 
