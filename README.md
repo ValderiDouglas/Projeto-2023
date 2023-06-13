@@ -29,7 +29,7 @@ Para superar esses obstáculos e melhorar a eficiência, estamos desenvolvendo u
 
 Com essa solução, o cliente poderá otimizar suas atividades comerciais e financeiras, desfrutando de automatização, facilidade de uso e eficácia na gestão de processos.
 
-Repositório: ![Sistema de Gestão de Serviços](https://github.com/404-BIS/Sistema-Gestao-Servicos)
+Repositório: [Sistema de Gestão de Serviços](https://github.com/404-BIS/Sistema-Gestao-Servicos)
 <div align="center">
 
 ## Tela de Início
@@ -68,7 +68,7 @@ Para superar esses obstáculos e melhorar a eficiência, estamos desenvolvendo u
 
 Com essa solução, o cliente poderá otimizar suas atividades comerciais e financeiras, desfrutando de automatização, facilidade de uso e eficácia na gestão de processos.
 
-Repositório: ![Send.me](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2)
+Repositório: [Send.me](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2)
 <div align="center">
 
 ## Tela de Início
@@ -106,7 +106,7 @@ Para superar esses obstáculos e melhorar a eficiência, estamos desenvolvendo u
 
 Com essa solução, o cliente poderá otimizar suas atividades comerciais e financeiras, desfrutando de automatização, facilidade de uso e eficácia na gestão de processos.
 
-Repositório: ![Pay.me](https://github.com/CopiloTTeam/documentacao)
+Repositório: [Pay.me](https://github.com/CopiloTTeam/documentacao)
 <div align="center">
 
 ## Tela de Início
