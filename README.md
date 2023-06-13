@@ -19,7 +19,7 @@ Durante o primeiro semestre de 2022, trabalhei em equipe para desenvolver um pro
 
 No segundo semestre, novamente em parceria com meu grupo da faculdade, trabalhamos em um projeto semestral utilizando tecnologias como React, Node.js, JavaScript, TypeScript e Sequelize (MySQL). Essa experiência me proporcionou um conhecimento mais aprofundado em desenvolvimento web, tanto no back-end quanto no front-end.
 
-# Projeto de 2023
+# 1°Semestre 2023
 
 ## Pay.me
 
@@ -39,7 +39,7 @@ Nesta tela, são exibidos todos os títulos, permitindo gerenciá-los e acessar 
 
 ## Contribuições Pessoais
 
-Atuei como master, fornecendo suporte ao time e traçando o caminho mais produtivo e tranquilo para o projeto. Contribuí diretamente na construção da estrutura do banco de dados. Participei ativamente no desenvolvimento do back-end, implementando funções CRUDs(Create, Read, Update, Delete) e garanti a integração com o front-end.
+Atuei como master, fornecendo suporte ao time e direcionando nos caminhos mais produtivos e nescessarios para o andamentento do projeto. Contribuí diretamente na construção da estrutura do banco de dados. Participei ativamente no desenvolvimento do back-end, implementando funções CRUDs(Create, Read, Update, Delete) e garanti a integração com o front-end.
 
 ## Soft Skills
 
@@ -51,13 +51,10 @@ Atuei como master, fornecendo suporte ao time e traçando o caminho mais produti
 
 | Habilidades  | Nível      | Descrição |
 |--------------|------------|-----------|
-| Java         | Sei Fazer Sozinho   | Aprendi a operar informação armazenada com funções CRUD, <br> estruturar as tabelas em models e conectar as rotas no controller |
-| TypeScript   | Entendi   | Participei na implementação com o back-end, gerenciando as rotas e <br>
-manipulando json para exibição de dados |
-| SQL          | Sei Fazer Sozinho |  |
-| React        | Entendi   | |
-| Insomnia     | Sei Fazer Sozinho | |
-| Figma        | Entendi | |
+| Java         | Sei Fazer Sozinho   | Aprendi a operar informação armazenada com funções CRUD,<br> estruturar as tabelas em models e conectar as rotas no controller |
+| TypeScript   | Entendi   | Participei na implementação com o back-end, gerenciando as rotas e<br>manipulando json para exibição de dados |
+| SQL          | Sei Fazer Sozinho | Elaborei a proposta inicial da estrutura do banco de dados e<br>preparei os inserts para base de dados em demonstrações e testes do projeto |
+| React        | Entendi   | Manipular elementos de front-end em estruturas condicionais |
 
 # Contato
 
