@@ -1,142 +1,189 @@
-# Sobre Mim
+# Valderi Douglas  
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ValderiDouglas/Projeto-2023/main/foto.jpeg?token=GHSAT0AAAAAACDYZN3ZQ7GQI7SGOEFLWMSSZEGOE5A" alt="Foto de Valderi" width="400px">
 </p>
 
-Olá! Eu sou Valderi Douglas e sou técnico em Desenvolvimento de Sistemas. Meu interesse pela programação começou através dos jogos, o que me levou a explorar diversas linguagens e tecnologias por conta própria. Sou uma pessoa autodidata e apaixonada por aprender.
+Olá! Eu sou Valderi Douglas, técnico em Desenvolvimento de Sistemas e apaixonado por aprender. Meu interesse pela programação começou através dos jogos, o que me levou a explorar diversas linguagens e tecnologias por conta própria. Atualmente, estou cursando o 3º semestre em Desenvolvimento de Software Multiplataforma na [FATEC São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/).  
 
-Atualmente, estou cursando o 3° semestre em Desenvolvimento de Software Multiplataforma na [Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/).
+Meu objetivo é expandir meus conhecimentos para me tornar um desenvolvedor Full Stack, sempre em busca de projetos desafiadores e oportunidades de aprendizado.  
 
-## Objetivo
+---
 
-Atualmente, sou um desenvolvedor com foco em back-end, mas também tenho noções de front-end. Meu objetivo é expandir meus conhecimentos e me tornar um desenvolvedor Full Stack. Estou constantemente buscando oportunidades de aprendizado e projetos desafiadores para aprimorar minhas habilidades.
+## Experiência Acadêmica e Projetos  
 
-## Experiência
+### **1º Semestre – Sistema de Gestão de Serviços**  
 
-Concluí meu ensino técnico com um trabalho (TCC) em C# na engine Unity. Essa experiência me permitiu desenvolver habilidades sólidas em programação e familiaridade com o desenvolvimento de jogos.
+**Descrição do Projeto**  
+Desenvolvemos um sistema robusto para ajudar clientes a resolver desafios comuns no gerenciamento financeiro e comercial. A solução abordou problemas como:  
+- Cadastro manual de dados de clientes e títulos.  
+- Dificuldade na geração de relatórios de clientes adimplentes e inadimplentes.  
+- Processamento manual de parcelas e formatação inadequada de informações financeiras.  
 
-Durante o primeiro semestre de 2022, trabalhei em equipe para desenvolver um projeto semestral. Nosso front-end utilizou HTML, CSS e a framework Flask em Python para o back-end, juntamente com MySQL como banco de dados.
+O sistema incluiu funcionalidades como:  
+- Cadastro completo de clientes e gestão de títulos com parcelas.  
+- Integração com a API dos Correios para facilitar o preenchimento automático de endereços.  
+- Automação do processamento de parcelas, otimizando a gestão de operações financeiras.  
 
-No segundo semestre, novamente em parceria com meu grupo da faculdade, trabalhamos em um projeto semestral utilizando tecnologias como React, Node.js, JavaScript, TypeScript e Sequelize (MySQL). Essa experiência me proporcionou um conhecimento mais aprofundado em desenvolvimento web, tanto no back-end quanto no front-end.
-
-# 1° Semestre 2023
-
-## Sistema de Gestão de Serviços
-
-O objetivo do projeto é resolver os desafios enfrentados pelo cliente na gestão de processos financeiros e comerciais. Isso inclui dificuldades como cadastro manual de títulos e dados de endereço, geração manual de relatórios de clientes adimplentes e inadimplentes, complexidade no processamento de parcelas, formatação de dados de moeda, gestão de diferentes tipos de usuários e baixa manual de parcelas.
-
-Para superar esses obstáculos e melhorar a eficiência, estamos desenvolvendo um sistema abrangente que permite o cadastro de clientes, gestão de títulos com parcelas e integração com a API dos correios para facilitar a inserção de dados de endereço. O destaque é a automação do processamento de parcelas, proporcionando agilidade e eficiência na gestão das operações. O sistema também segmenta os usuários em categorias, como comercial, financeiro e administrador, para uma gestão personalizada dos títulos e parcelas.
-
-Com essa solução, o cliente poderá otimizar suas atividades comerciais e financeiras, desfrutando de automatização, facilidade de uso e eficácia na gestão de processos.
-
-Repositório: [Sistema de Gestão de Serviços](https://github.com/404-BIS/Sistema-Gestao-Servicos)
+**Tela de Início**  
 <div align="center">
+  <img src="https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/24ca0b07-c72f-4995-a7aa-21ff5748e31a" alt="Tela de Início">
+</div>  
 
-## Tela de Início
-Nesta tela, são exibidos todos os títulos, permitindo gerenciá-los e acessar outros recursos através da barra de navegação.
-![163494007-21cde00e-1f0f-4c82-a52f-51ee6eef6012](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/24ca0b07-c72f-4995-a7aa-21ff5748e31a)
+**Contribuições Pessoais**  
+- Assumi o papel de Scrum Master, organizando sprints e garantindo o cumprimento dos prazos.  
+- Desenvolvi a estrutura inicial do banco de dados, com foco em modelagem eficiente.  
+- Implementei funções CRUD (Create, Read, Update e Delete) para gerenciar dados.  
+- Trabalhei na integração entre o back-end e o front-end para assegurar a funcionalidade do sistema.  
 
+**Hard Skills**  
+| Habilidade             | Nível                | Descrição                                                                 |
+|------------------------|---------------------|---------------------------------------------------------------------------|
+| **SQL/MySQL**          | Sei fazer sozinho  | Estruturei o banco de dados, queries e testes em ambiente de produção.   |
+| **Node.js/TypeScript** | Sei fazer sozinho  | Implementei APIs REST conectadas ao banco de dados e integrações.         |
+| **ReactJS**            | Entendi            | Desenvolvi componentes básicos com integração de dados no front-end.     |
 
-</div>
+**Soft Skills**  
+- Trabalho em equipe para alcançar metas ambiciosas.  
+- Proatividade para resolver problemas de forma criativa e eficiente.  
+- Organização e gestão do tempo para entrega dentro dos prazos.  
 
-## Contribuições Pessoais
+[Repositório do Projeto](https://github.com/404-BIS/Sistema-Gestao-Servicos)  
 
-Atuei como master, fornecendo suporte ao time e direcionando nos caminhos mais produtivos e nescessarios para o andamentento do projeto. Contribuí diretamente na construção da estrutura do banco de dados. Participei ativamente no desenvolvimento do back-end, implementando funções CRUDs(Create, Read, Update, Delete) e garanti a integração com o front-end.
+---
 
-## Soft Skills
+### **2º Semestre – Send.me**  
 
-1. Trabalho em equipe: Trabalhei em equipe no projeto acadêmico. Isso demonstra a habilidade de colaborar e contribuir efetivamente em um ambiente de equipe.
-2. Flexibilidade: adquiri conhecimentos em back-end, front-end e estrutura de dados, demonstrando a capacidade de se adaptar e trabalhar em diferentes áreas e tecnologias.
-3. Entrega de resultados: Atuei como master no projeto Pay.me, fornecendo suporte ao time e garantindo a entrega de resultados e cumprir prazos.
+**Descrição do Projeto**  
+O projeto *Send.me* foi desenvolvido com o objetivo de transformar a gestão financeira e comercial de clientes, oferecendo uma solução automatizada e altamente eficiente. O sistema abordou desafios como:  
+- Processamento manual de parcelas e cadastro de dados financeiros.  
+- Falta de relatórios detalhados para acompanhar inadimplência e adimplência.  
+- Dificuldade de segmentação de usuários e permissões específicas.  
 
-## Hard Skills
+A solução desenvolvida incluiu:  
+- Um sistema de cadastro que permite a gestão completa de títulos e parcelas.  
+- Integração com a API dos Correios para facilitar o preenchimento automático de endereços.  
+- Automação no processamento de parcelas, otimizando operações financeiras.  
+- Segmentação de usuários para personalizar acessos e funcionalidades.  
 
-| Habilidades  | Nível      | Descrição |
-|--------------|------------|-----------|
-| Java         | Sei Fazer Sozinho   | Aprendi a operar informação armazenada com funções CRUD,<br> estruturar as tabelas em models e conectar as rotas no controller |
-| TypeScript   | Entendi   | Participei na implementação com o back-end, gerenciando as rotas e<br>manipulando json para exibição de dados |
-| SQL          | Sei Fazer Sozinho | Elaborei a proposta inicial da estrutura do banco de dados e<br>preparei os inserts para base de dados em demonstrações e testes do projeto |
-| React        | Entendi   | Manipular elementos de front-end em estruturas condicionais |
-
-
-# 2° Semestre 2023
-
-## Send.me
-
-O objetivo do projeto é resolver os desafios enfrentados pelo cliente na gestão de processos financeiros e comerciais. Isso inclui dificuldades como cadastro manual de títulos e dados de endereço, geração manual de relatórios de clientes adimplentes e inadimplentes, complexidade no processamento de parcelas, formatação de dados de moeda, gestão de diferentes tipos de usuários e baixa manual de parcelas.
-
-Para superar esses obstáculos e melhorar a eficiência, estamos desenvolvendo um sistema abrangente que permite o cadastro de clientes, gestão de títulos com parcelas e integração com a API dos correios para facilitar a inserção de dados de endereço. O destaque é a automação do processamento de parcelas, proporcionando agilidade e eficiência na gestão das operações. O sistema também segmenta os usuários em categorias, como comercial, financeiro e administrador, para uma gestão personalizada dos títulos e parcelas.
-
-Com essa solução, o cliente poderá otimizar suas atividades comerciais e financeiras, desfrutando de automatização, facilidade de uso e eficácia na gestão de processos.
-
-Repositório: [Send.me](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2)
+**Tela de Início**  
 <div align="center">
+  <img src="https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/e06a2a06-d7a7-4407-bcc8-70872da010ed" alt="Tela de Início">
+</div>  
 
-## Tela de Início
-Nesta tela, são exibidos todos os títulos, permitindo gerenciá-los e acessar outros recursos através da barra de navegação.
-![204181812-06970d27-4e57-4527-9385-19950bafff8c](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/e06a2a06-d7a7-4407-bcc8-70872da010ed)
+**Contribuições Pessoais**  
+- Atuei como Scrum Master, liderando e apoiando a equipe em todas as fases do projeto.  
+- Desenvolvi funções CRUD no back-end e modele um banco de dados robusto para lidar com os dados dos clientes.  
+- Trabalhei na integração entre front-end e back-end, garantindo a funcionalidade da aplicação.  
+- Colaborei no planejamento estratégico para priorizar funcionalidades críticas.  
 
-</div>
+**Hard Skills**  
+| Habilidade             | Nível                | Descrição                                                                 |
+|------------------------|---------------------|---------------------------------------------------------------------------|
+| **SQL/MySQL**          | Sei fazer sozinho  | Estruturei o banco de dados e otimizei queries para alta performance.    |
+| **Node.js/TypeScript** | Sei fazer sozinho  | Implementei APIs REST com lógica complexa para atender às necessidades.   |
+| **ReactJS**            | Entendi            | Contribuí no front-end para melhorar a experiência do usuário.           |
 
-## Contribuições Pessoais
+**Soft Skills**  
+- Liderança e organização da equipe para manter foco e produtividade.  
+- Adaptação a mudanças rápidas de escopo e novas tecnologias.  
+- Colaboração eficaz para resolver problemas complexos.  
 
-Atuei como master, fornecendo suporte ao time e direcionando nos caminhos mais produtivos e nescessarios para o andamentento do projeto. Contribuí diretamente na construção da estrutura do banco de dados. Participei ativamente no desenvolvimento do back-end, implementando funções CRUDs(Create, Read, Update, Delete) e garanti a integração com o front-end.
+[Repositório do Projeto](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2)  
 
-## Soft Skills
+---
 
-1. Trabalho em equipe: Trabalhei em equipe no projeto acadêmico. Isso demonstra a habilidade de colaborar e contribuir efetivamente em um ambiente de equipe.
-2. Flexibilidade: adquiri conhecimentos em back-end, front-end e estrutura de dados, demonstrando a capacidade de se adaptar e trabalhar em diferentes áreas e tecnologias.
-3. Entrega de resultados: Atuei como master no projeto Pay.me, fornecendo suporte ao time e garantindo a entrega de resultados e cumprir prazos.
+### **3º Semestre – Pay.me**  
 
-## Hard Skills
+**Descrição do Projeto**  
+O *Pay.me* foi projetado para ser uma ferramenta poderosa de gestão financeira, com funcionalidades voltadas para:  
+- Automação de processos relacionados a pagamentos e cobranças.  
+- Organização de usuários em categorias específicas, como comercial, financeiro e administrador.  
+- Implementação de recursos de upload de arquivos e chat em tempo real.  
 
-| Habilidades  | Nível      | Descrição |
-|--------------|------------|-----------|
-| Java         | Sei Fazer Sozinho   | Aprendi a operar informação armazenada com funções CRUD,<br> estruturar as tabelas em models e conectar as rotas no controller |
-| TypeScript   | Entendi   | Participei na implementação com o back-end, gerenciando as rotas e<br>manipulando json para exibição de dados |
-| SQL          | Sei Fazer Sozinho | Elaborei a proposta inicial da estrutura do banco de dados e<br>preparei os inserts para base de dados em demonstrações e testes do projeto |
-| React        | Entendi   | Manipular elementos de front-end em estruturas condicionais |
+As principais funcionalidades incluem:  
+- Cadastro e gerenciamento de clientes, títulos e parcelas.  
+- Filtragem avançada para consulta de dados específicos.  
+- Chat integrado para comunicação entre usuários, com armazenamento em MongoDB.  
+- Interface intuitiva e responsiva desenvolvida com ReactJS.  
 
-# 3° Semestre 2023
-
-## Pay.me
-
-O objetivo do projeto é resolver os desafios enfrentados pelo cliente na gestão de processos financeiros e comerciais. Isso inclui dificuldades como cadastro manual de títulos e dados de endereço, geração manual de relatórios de clientes adimplentes e inadimplentes, complexidade no processamento de parcelas, formatação de dados de moeda, gestão de diferentes tipos de usuários e baixa manual de parcelas.
-
-Para superar esses obstáculos e melhorar a eficiência, estamos desenvolvendo um sistema abrangente que permite o cadastro de clientes, gestão de títulos com parcelas e integração com a API dos correios para facilitar a inserção de dados de endereço. O destaque é a automação do processamento de parcelas, proporcionando agilidade e eficiência na gestão das operações. O sistema também segmenta os usuários em categorias, como comercial, financeiro e administrador, para uma gestão personalizada dos títulos e parcelas.
-
-Com essa solução, o cliente poderá otimizar suas atividades comerciais e financeiras, desfrutando de automatização, facilidade de uso e eficácia na gestão de processos.
-
-Repositório: [Pay.me](https://github.com/CopiloTTeam/documentacao)
+**Tela de Início**  
 <div align="center">
+  <img src="https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/9f65b743-4557-4595-a478-2725160a96b7" alt="Tela de Início">
+</div>  
 
-## Tela de Início
-Nesta tela, são exibidos todos os títulos, permitindo gerenciá-los e acessar outros recursos através da barra de navegação.
-![home](https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/9f65b743-4557-4595-a478-2725160a96b7)
+**Contribuições Pessoais**  
+- Coordenei o time como Scrum Master, organizando sprints e entregas.  
+- Desenvolvi rotas REST e implementei testes automatizados com Jest.  
+- Trabalhei nas telas de login, cadastro e listagem no front-end.  
+- Estruturei e configurei contêineres com Docker Compose para bancos de dados.  
 
-</div>
+**Hard Skills**  
+| Habilidade             | Nível                | Descrição                                                                 |
+|------------------------|---------------------|---------------------------------------------------------------------------|
+| **SQL/PostgreSQL**     | Sei fazer sozinho  | Modelagem do banco de dados com TypeORM e configuração avançada.          |
+| **MongoDB**            | Sei fazer sozinho  | Gerenciamento de mensagens de chat em tempo real com alta eficiência.     |
+| **Node.js/TypeScript** | Sei fazer sozinho  | Desenvolvimento de APIs robustas com foco em escalabilidade.              |
+| **ReactJS**            | Entendi            | Contribuí no desenvolvimento de telas e estilização com Styled Components.|
 
-## Contribuições Pessoais
+**Soft Skills**  
+- Flexibilidade para assumir novos desafios e aprender rapidamente.  
+- Proatividade em antecipar problemas e apresentar soluções inovadoras.  
+- Liderança na gestão da equipe e entrega de resultados de alto impacto.  
 
-Atuei como master, fornecendo suporte ao time e direcionando nos caminhos mais produtivos e nescessarios para o andamentento do projeto. Contribuí diretamente na construção da estrutura do banco de dados. Participei ativamente no desenvolvimento do back-end, implementando funções CRUDs(Create, Read, Update, Delete) e garanti a integração com o front-end.
+[Repositório do Projeto](https://github.com/CopiloTTeam/documentacao)  
 
-## Soft Skills
+---
 
-1. Trabalho em equipe: Trabalhei em equipe no projeto acadêmico. Isso demonstra a habilidade de colaborar e contribuir efetivamente em um ambiente de equipe.
-2. Flexibilidade: adquiri conhecimentos em back-end, front-end e estrutura de dados, demonstrando a capacidade de se adaptar e trabalhar em diferentes áreas e tecnologias.
-3. Entrega de resultados: Atuei como master no projeto Pay.me, fornecendo suporte ao time e garantindo a entrega de resultados e cumprir prazos.
+### **4º Semestre – Vitality (Projeto Gaia)**  
 
-## Hard Skills
+**Descrição do Projeto**  
+O projeto *Vitality* foi desenvolvido como parte do programa de Aprendizagem por Projetos Integrados (API) da Fatec São José dos Campos. O desafio foi proposto pela empresa MidAll Tecnologias e focou na criação de um sistema de coleta de dados para estações meteorológicas, visando monitoramento ambiental e conscientização de estudantes do ensino médio.  
 
-| Habilidades  | Nível      | Descrição |
-|--------------|------------|-----------|
-| Java         | Sei Fazer Sozinho   | Aprendi a operar informação armazenada com funções CRUD,<br> estruturar as tabelas em models e conectar as rotas no controller |
-| TypeScript   | Entendi   | Participei na implementação com o back-end, gerenciando as rotas e<br>manipulando json para exibição de dados |
-| SQL          | Sei Fazer Sozinho | Elaborei a proposta inicial da estrutura do banco de dados e<br>preparei os inserts para base de dados em demonstrações e testes do projeto |
-| React        | Entendi   | Manipular elementos de front-end em estruturas condicionais |
+A solução envolveu o desenvolvimento de estações meteorológicas de baixo custo para coletar dados como direção e velocidade do vento, índice pluviométrico, umidade, temperatura e pressão. Esses dados seriam transmitidos por tecnologias IoT (como Sigfox, LoRa e GSM) para um servidor central, tratados e exibidos em um portal web com dashboards interativos.  
 
-# Contato
+O projeto também incluiu aspectos educacionais, explicando conceitos matemáticos e ambientais, e contou com a instalação de estações na Escola Estadual Elmano Ferreira Veloso e na Fatec São José dos Campos.  
 
-E-mail: [valderi.douglas.jobs@gmail.com](mailto:valderi.douglas.jobs@gmail.com)<br>
-GitHub: [ValderiDouglas](https://github.com/ValderiDouglas)<br>
-LinkedIn: [Valderi Douglas](https://www.linkedin.com/in/valderidouglas/)<br>
+**Principais Funcionalidades**  
+- Desenvolvimento e montagem de estações meteorológicas.  
+- Coleta e transmissão de dados para um servidor central.  
+- Cadastro de estações, parâmetros e usuários.  
+- Visualização de dados em dashboards intuitivos e interativos.  
+- Disponibilização de relatórios e alertas ambientais.  
+- Material educativo sobre meteorologia, com conceitos matemáticos.  
+
+**Requisitos Não Funcionais**  
+- Experiência do usuário (UX) otimizada para dashboards.  
+- Pipeline de Integração Contínua (IC) e deploy automatizado.  
+- Documentação detalhada de rotas das APIs.  
+
+**Tela de Dashboard**  
+<div align="center">
+  <img src="https://github.com/Vitality-4DSM/Documentacao/assets/73721760/a235d1e2-d9e5-40cd-a4a2-00337d35d98f" width="500">
+</div>  
+
+**Contribuições Pessoais**  
+- Trabalhei no desenvolvimento do back-end, implementando APIs para cadastro e recepção de dados.  
+- Implementei dashboards com gráficos interativos, garantindo a usabilidade e clareza na exibição dos dados.
+- Colaborei na documentação de rotas e no tutorial educacional sobre meteorologia.  
+
+**Hard Skills**  
+| Habilidade             | Nível                | Descrição                                                                 |
+|------------------------|---------------------|---------------------------------------------------------------------------|
+| **Python**             | Sei fazer sozinho  | Desenvolvi APIs para recepção e tratamento de dados IoT.                 |
+| **ReactJS**            | Sei fazer com ajuda | Construí dashboards e gráficos interativos com visualização clara.       |
+| **UX Design**          | Sei fazer com ajuda | Colaborei na otimização da interface dos dashboards para maior usabilidade.|
+
+**Soft Skills**  
+- Flexibilidade para lidar com requisitos técnicos e educacionais.  
+- Proatividade na execução de soluções para problemas complexos.
+- Trabalho em equipe multidisciplinar para atender às demandas do cliente.  
+
+[Repositório do Projeto](https://github.com/Vitality-4DSM/Documentacao)  
+
+--- 
+
+## Contatos  
+- **E-mail**: [valderi.douglas.jobs@gmail.com](mailto:valderi.douglas.jobs@gmail.com)  
+- **GitHub**: [ValderiDouglas](https://github.com/ValderiDouglas)  
+- **LinkedIn**: [Valderi Douglas](https://www.linkedin.com/in/valderidouglas/)  
